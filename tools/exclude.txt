@@ -1,0 +1,3 @@
+# Words or phrases to keep out of chIgbo. One per line; matching ignores
+# accents, spaces and capitals and checks both the Igbo word and its definition.
+# Re-run `python3 tools/build_dictionary.py` after editing.
